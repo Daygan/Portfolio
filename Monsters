@@ -1,0 +1,3 @@
+A self playing grid based game in which 'monsters' represented by the letter 'M' seek food.  
+For every iteration of the game their life force diminishes.
+The game uses opening and closing credits for a more visual effect and it also has a save / load function.
